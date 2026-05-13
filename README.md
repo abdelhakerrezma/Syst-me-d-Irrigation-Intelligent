@@ -99,18 +99,6 @@ Lorsque le sol devient humide :
 
 ---
 
-# 📸 Aperçu du projet
-
-Ajoutez vos images dans le dossier `images`.
-
-Exemple :
-
-```markdown
-![Système d’irrigation intelligent](images/projet.jpg)
-```
-
----
-
 # ▶️ Exécution du projet
 
 Cloner le dépôt GitHub :
